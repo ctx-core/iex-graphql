@@ -1,7 +1,7 @@
 {
 	"name": "@ctx-core/iex-graphql",
 	"description": "@ctx-core/iex-graphql",
-	"version": "4.0.50",
+	"version": "4.0.51",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -28,8 +28,8 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "^4.1.36",
-		"@ctx-core/iex": "^0.6.48"
+		"@ctx-core/graphql": "^4.1.37",
+		"@ctx-core/iex": "^0.6.49"
 	},
 	"devDependencies": {
 		"typescript": "^3.7.4"
