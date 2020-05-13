@@ -32,7 +32,7 @@
 		"@ctx-core/iex": "^0.6.87"
 	},
 	"devDependencies": {
-		"typescript": "^3.8.3"
+		"typescript": "^3.9.2"
 	},
 	"gitHead": "0ba870ce45450ab7fe513d91f0f3a7fad470010d"
 }
