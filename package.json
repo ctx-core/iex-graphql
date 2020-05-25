@@ -1,7 +1,8 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"description": "@ctx-core/iex-graphql",
 	"version": "4.0.99",
+	"description": "@ctx-core/iex-graphql",
+	"type": "module",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
