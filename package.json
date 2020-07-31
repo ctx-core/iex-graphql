@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "4.0.145",
+	"version": "4.0.146",
 	"description": "@ctx-core/iex-graphql",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -31,8 +31,8 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "^4.1.72",
-		"@ctx-core/iex": "^0.6.136"
+		"@ctx-core/graphql": "^4.1.73",
+		"@ctx-core/iex": "^0.6.137"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.7"
