@@ -2,6 +2,22 @@
 	"name": "@ctx-core/iex-graphql",
 	"version": "4.0.182",
 	"description": "@ctx-core/iex-graphql",
+	"keywords": [
+		"ctx-core",
+		"iex",
+		"graphql",
+		"apollo"
+	],
+	"homepage": "https://github.com/ctx-core/iex-graphql#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/iex-graphql/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/iex-graphql/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,34 +25,18 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/iex-graphql/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"iex",
-		"graphql",
-		"apollo"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/iex-graphql/issues"
-	},
-	"homepage": "https://github.com/ctx-core/iex-graphql#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "^4.1.87",
-		"@ctx-core/iex": "^0.6.172"
+		"@ctx-core/graphql": "workspace:*",
+		"@ctx-core/iex": "workspace:*"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "8a06013ed8d771df1f37b21cd746664229043c32"
 }
