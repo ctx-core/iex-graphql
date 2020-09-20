@@ -1,5 +1,12 @@
 # @ctx-core/iex-graphql
 
+## 5.0.5
+
+### Patch Changes
+
+- @ctx-core/iex@1.0.5
+- @ctx-core/graphql@5.0.3
+
 ## 5.0.4
 
 ### Patch Changes
