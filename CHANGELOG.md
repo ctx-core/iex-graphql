@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 5.0.4
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@5.0.2
+  - @ctx-core/iex@1.0.4
+
 ## 5.0.3
 
 ### Patch Changes
