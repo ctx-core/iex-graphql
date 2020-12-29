@@ -1,18 +1,7 @@
-import { gql } from '@ctx-core/graphql'
+import type { DocumentNode } from 'graphql'
+import gql from 'graphql-tag'
 //@formatter:off
-export const type__RefDataSymbol = gql`
-	type RefDataSymbol {
-		symbol: String
-		name: String
-		date: String
-		type: String
-		iexId: String
-		region: String
-		currency: String
-		isEnabled: Boolean
-	}
-`
-export const type__Quote = gql`
+export const Quote_gql:DocumentNode = gql`
 	type Quote {
 		symbol: String
 		companyName: String
@@ -55,3 +44,6 @@ export const type__Quote = gql`
 `
 //@formatter:on
 export const resolvers = {}
+export {
+	Quote_gql as type__Quote
+}

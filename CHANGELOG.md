@@ -1,5 +1,12 @@
 # @ctx-core/iex-graphql
 
+## 5.1.0
+
+### Minor Changes
+
+- RefDataSymbol_gql as type\_\_RefDataSymbol
+- Quote_gql as type\_\_Quote
+
 ## 5.0.99
 
 ### Patch Changes
