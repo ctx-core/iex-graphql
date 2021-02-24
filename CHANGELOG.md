@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 6.0.30
+
+### Patch Changes
+
+- version bump
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.0.16
+  - @ctx-core/iex@2.0.29
+
 ## 6.0.29
 
 ### Patch Changes
