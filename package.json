@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "6.0.43",
+	"version": "6.0.44",
 	"description": "@ctx-core/iex-graphql",
 	"keywords": [
 		"ctx-core",
@@ -30,7 +30,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/graphql": "workspace:^6.0.24",
-		"@ctx-core/iex": "workspace:^2.0.42",
+		"@ctx-core/iex": "workspace:^2.0.43",
 		"graphql-tag": "^2.11.0"
 	},
 	"devDependencies": {
