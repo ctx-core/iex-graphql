@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 6.0.48
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.0.26
+  - @ctx-core/iex@2.0.47
+
 ## 6.0.47
 
 ### Patch Changes
