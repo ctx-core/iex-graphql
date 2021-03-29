@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 6.0.49
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.0.27
+  - @ctx-core/iex@2.0.48
+
 ## 6.0.48
 
 ### Patch Changes
