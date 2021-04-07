@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 6.0.52
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.0.29
+  - @ctx-core/iex@2.0.51
+
 ## 6.0.51
 
 ### Patch Changes
