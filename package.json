@@ -29,8 +29,8 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "workspace:^6.0.51",
-		"@ctx-core/iex": "workspace:^2.0.65",
+		"@ctx-core/graphql": "workspace:^6.0.52",
+		"@ctx-core/iex": "workspace:^2.0.66",
 		"graphql-tag": "^2.12.4"
 	},
 	"devDependencies": {
