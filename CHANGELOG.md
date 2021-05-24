@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 6.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.2.1
+  - @ctx-core/iex@2.2.1
+
 ## 6.2.0
 
 ### Minor Changes
