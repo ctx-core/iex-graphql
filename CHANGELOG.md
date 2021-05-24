@@ -1,5 +1,17 @@
 # @ctx-core/iex-graphql
 
+## 6.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.2.0
+  - @ctx-core/iex@2.2.0
+
 ## 6.1.3
 
 ### Patch Changes
