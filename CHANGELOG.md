@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 6.1.3
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.1.10
+  - @ctx-core/iex@2.1.11
+
 ## 6.1.2
 
 ### Patch Changes
