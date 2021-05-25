@@ -1,5 +1,17 @@
 # @ctx-core/iex-graphql
 
+## 6.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@6.3.0
+  - @ctx-core/iex@2.3.0
+
 ## 6.2.1
 
 ### Patch Changes
