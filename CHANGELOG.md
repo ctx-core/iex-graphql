@@ -1,5 +1,19 @@
 # @ctx-core/iex-graphql
 
+## 7.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@7.0.0
+  - @ctx-core/iex@3.0.0
+
 ## 6.3.2
 
 ### Patch Changes
