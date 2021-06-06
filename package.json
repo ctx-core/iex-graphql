@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "7.0.0",
+	"version": "7.0.1",
 	"description": "@ctx-core/iex-graphql",
 	"keywords": [
 		"ctx-core",
@@ -23,14 +23,14 @@
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "workspace:^7.0.13",
-		"@ctx-core/iex": "workspace:^3.0.3",
+		"@ctx-core/graphql": "workspace:^7.0.14",
+		"@ctx-core/iex": "workspace:^3.0.4",
 		"graphql-tag": "^2.12.4"
 	},
 	"devDependencies": {

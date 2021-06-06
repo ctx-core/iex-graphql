@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 7.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@7.0.14
+  - @ctx-core/iex@3.0.4
+
 ## 7.0.0
 
 ### Major Changes
