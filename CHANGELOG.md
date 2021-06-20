@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 8.0.8
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@8.0.7
+  - @ctx-core/iex@4.0.10
+
 ## 8.0.7
 
 ### Patch Changes
