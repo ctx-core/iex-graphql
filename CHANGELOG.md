@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 8.0.9
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@8.0.8
+  - @ctx-core/iex@4.0.11
+
 ## 8.0.8
 
 ### Patch Changes
