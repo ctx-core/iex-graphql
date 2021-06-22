@@ -1,5 +1,21 @@
 # @ctx-core/iex-graphql
 
+## 8.0.11
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@8.0.10
+
+## 8.0.10
+
+### Patch Changes
+
+- graphql: ^15.5.0 -> ^15.5.1
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@8.0.9
+
 ## 8.0.9
 
 ### Patch Changes
