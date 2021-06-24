@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 8.0.13
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@8.0.13
+  - @ctx-core/iex@4.0.14
+
 ## 8.0.12
 
 ### Patch Changes
