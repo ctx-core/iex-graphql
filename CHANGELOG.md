@@ -1,5 +1,11 @@
 # @ctx-core/iex-graphql
 
+## 8.0.16
+
+### Patch Changes
+
+- graphql-tag: ^2.12.4 -> ^2.12.5
+
 ## 8.0.15
 
 ### Patch Changes
