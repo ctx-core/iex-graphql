@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "8.0.14",
+	"version": "8.0.15",
 	"description": "@ctx-core/iex-graphql",
 	"keywords": [
 		"ctx-core",
@@ -29,8 +29,8 @@
 		"prepublishOnly": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "workspace:^8.0.15",
-		"@ctx-core/iex": "workspace:^4.0.16",
+		"@ctx-core/graphql": "workspace:^8.0.17",
+		"@ctx-core/iex": "workspace:^4.0.17",
 		"graphql-tag": "^2.12.4"
 	},
 	"devDependencies": {
