@@ -30,8 +30,8 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "workspace:^9.0.2",
-		"@ctx-core/iex": "workspace:^5.0.3",
+		"@ctx-core/graphql": "workspace:^9.0.3",
+		"@ctx-core/iex": "workspace:^5.0.4",
 		"graphql-tag": "^2.12.5"
 	},
 	"devDependencies": {
