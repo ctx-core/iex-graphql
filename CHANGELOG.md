@@ -1,5 +1,17 @@
 # @ctx-core/iex-graphql
 
+## 9.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.0
+  - @ctx-core/iex@5.0.0
+
 ## 8.0.34
 
 ### Patch Changes
