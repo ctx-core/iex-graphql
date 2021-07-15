@@ -1,2 +1,2 @@
-export * from './Quote_gql'
-export * from './RefDataSymbol_gql'
+export * from './Quote_gql.js'
+export * from './RefDataSymbol_gql.js'

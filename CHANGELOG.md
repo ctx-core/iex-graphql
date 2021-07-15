@@ -1,5 +1,16 @@
 # @ctx-core/iex-graphql
 
+## 9.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+- fix: "type": "module"
+- Updated dependencies [2a6971f80]
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.1
+  - @ctx-core/iex@5.0.1
+
 ## 9.0.0
 
 ### Major Changes
