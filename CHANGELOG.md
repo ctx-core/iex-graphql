@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.7
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.4
+  - @ctx-core/iex@5.0.7
+
 ## 9.0.6
 
 ### Patch Changes
