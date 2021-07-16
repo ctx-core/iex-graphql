@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.10
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.7
+  - @ctx-core/iex@5.0.10
+
 ## 9.0.9
 
 ### Patch Changes
