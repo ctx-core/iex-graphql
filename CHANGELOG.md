@@ -1,5 +1,23 @@
 # @ctx-core/iex-graphql
 
+## 9.0.9
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.6
+  - @ctx-core/iex@5.0.9
+
+## 9.0.8
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.5
+  - @ctx-core/iex@5.0.8
+
 ## 9.0.7
 
 ### Patch Changes
