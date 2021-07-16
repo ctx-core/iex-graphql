@@ -1,5 +1,23 @@
 # @ctx-core/iex-graphql
 
+## 9.0.15
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.11
+  - @ctx-core/iex@5.0.15
+
+## 9.0.14
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.10
+  - @ctx-core/iex@5.0.14
+
 ## 9.0.13
 
 ### Patch Changes
