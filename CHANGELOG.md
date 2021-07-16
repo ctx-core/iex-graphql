@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.11
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.8
+  - @ctx-core/iex@5.0.11
+
 ## 9.0.10
 
 ### Patch Changes
