@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.12
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/graphql@9.0.9
+  - @ctx-core/iex@5.0.12
+
 ## 9.0.11
 
 ### Patch Changes
