@@ -1,5 +1,16 @@
 # @ctx-core/iex-graphql
 
+## 9.0.87
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/graphql@9.0.32
+  - @ctx-core/iex@5.0.83
+
 ## 9.0.86
 
 ### Patch Changes
