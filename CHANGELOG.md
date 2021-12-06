@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.97
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/graphql@9.0.39
+  - @ctx-core/iex@5.0.93
+
 ## 9.0.96
 
 ### Patch Changes
