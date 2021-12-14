@@ -19,9 +19,9 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
 	"exports": {
 		".": {
+			"types": "./src/index.ts",
 			"import": "./dist/index.js"
 		},
 		"./package.json": "./package.json"
@@ -35,12 +35,12 @@
 	},
 	"dependencies": {
 		"@ctx-core/graphql": "workspace:^9.0.41",
-		"@ctx-core/iex": "workspace:^5.0.96",
+		"@ctx-core/iex": "workspace:^5.0.97",
 		"graphql-tag": "^2.12.6"
 	},
 	"devDependencies": {
-		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.118",
+		"@swc/cli": "^0.1.55",
+		"@swc/core": "^1.2.120",
 		"graphql": "^16.1.0",
 		"typescript": "next"
 	},
