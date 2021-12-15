@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.102
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/graphql@9.0.42
+  - @ctx-core/iex@5.0.98
+
 ## 9.0.101
 
 ### Patch Changes
