@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.104
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/graphql@9.0.44
+  - @ctx-core/iex@5.0.100
+
 ## 9.0.103
 
 ### Patch Changes
