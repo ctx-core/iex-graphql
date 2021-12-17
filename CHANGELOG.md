@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.109
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/graphql@9.0.49
+  - @ctx-core/iex@5.0.105
+
 ## 9.0.108
 
 ### Patch Changes
