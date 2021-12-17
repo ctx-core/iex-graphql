@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "9.0.106",
+	"version": "9.0.107",
 	"description": "@ctx-core/iex-graphql",
 	"keywords": [
 		"ctx-core",
@@ -19,7 +19,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -37,8 +37,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "workspace:^9.0.46",
-		"@ctx-core/iex": "workspace:^5.0.102",
+		"@ctx-core/graphql": "workspace:^9.0.47",
+		"@ctx-core/iex": "workspace:^5.0.103",
 		"graphql-tag": "^2.12.6"
 	},
 	"devDependencies": {

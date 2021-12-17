@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.107
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/graphql@9.0.47
+  - @ctx-core/iex@5.0.103
+
 ## 9.0.106
 
 ### Patch Changes
