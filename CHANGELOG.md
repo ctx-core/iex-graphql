@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.108
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/graphql@9.0.48
+  - @ctx-core/iex@5.0.104
+
 ## 9.0.107
 
 ### Patch Changes
