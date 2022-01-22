@@ -1,6 +1,5 @@
 import type { DocumentNode } from 'graphql'
 import gql from 'graphql-tag'
-//@formatter:off
 export const Quote_gql:DocumentNode = gql`
 	type Quote {
 		symbol: String
@@ -42,7 +41,6 @@ export const Quote_gql:DocumentNode = gql`
 		ytdChange: Float
 	}
 `
-//@formatter:on
 export const resolvers = {}
 export {
 	Quote_gql as type__Quote
