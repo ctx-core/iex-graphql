@@ -38,7 +38,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/graphql": "workspace:^9.0.56",
-		"@ctx-core/iex": "workspace:^6.0.4",
+		"@ctx-core/iex": "workspace:^6.1.0",
 		"graphql-tag": "^2.12.6"
 	},
 	"devDependencies": {
