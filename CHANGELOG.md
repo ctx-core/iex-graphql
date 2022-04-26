@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.142
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/graphql@9.0.65
+  - @ctx-core/iex@6.1.24
+
 ## 9.0.141
 
 ### Patch Changes
