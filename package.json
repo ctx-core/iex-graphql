@@ -35,8 +35,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "^9.0.82",
-		"@ctx-core/iex": "^6.9.0",
+		"@ctx-core/graphql": "^9.0.83",
+		"@ctx-core/iex": "^6.9.1",
 		"graphql-tag": "^2.12.6"
 	},
 	"devDependencies": {
