@@ -1,5 +1,11 @@
 # @ctx-core/iex-graphql
 
+## 9.0.163
+
+### Patch Changes
+
+- @ctx-core/iex: ^6.9.12 -> ^6.9.13
+
 ## 9.0.162
 
 ### Patch Changes
