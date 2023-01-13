@@ -1,5 +1,13 @@
 # @ctx-core/iex-graphql
 
+## 9.0.187
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+- Updated dependencies
+  - @ctx-core/iex@6.9.37
+
 ## 9.0.186
 
 ### Patch Changes
