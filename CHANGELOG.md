@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.0.199
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/graphql@9.0.97
+  - @ctx-core/iex@6.9.50
+
 ## 9.0.198
 
 ### Patch Changes
