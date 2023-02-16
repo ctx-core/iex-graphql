@@ -1,6 +1,5 @@
-import type { DocumentNode } from 'graphql'
 import gql from 'graphql-tag'
-export const RefDataSymbol_gql:DocumentNode = gql`
+export const RefDataSymbol_gql = gql`
 	type RefDataSymbol {
 		symbol: String
 		name: String
@@ -12,6 +11,4 @@ export const RefDataSymbol_gql:DocumentNode = gql`
 		isEnabled: Boolean
 	}
 `
-export {
-	RefDataSymbol_gql as type__RefDataSymbol
-}
+export { RefDataSymbol_gql as type__RefDataSymbol }

@@ -1,6 +1,5 @@
-import type { DocumentNode } from 'graphql'
 import gql from 'graphql-tag'
-export const Quote_gql:DocumentNode = gql`
+export const Quote_gql = gql`
 	type Quote {
 		symbol: String
 		companyName: String
@@ -42,6 +41,4 @@ export const Quote_gql:DocumentNode = gql`
 	}
 `
 export const resolvers = {}
-export {
-	Quote_gql as type__Quote
-}
+export { Quote_gql as type__Quote }

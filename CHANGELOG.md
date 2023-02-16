@@ -1,5 +1,11 @@
 # @ctx-core/iex-graphql
 
+## 9.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 9.0.227
 
 ### Patch Changes
