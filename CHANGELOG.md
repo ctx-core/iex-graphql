@@ -1,5 +1,26 @@
 # @ctx-core/iex-graphql
 
+## 9.1.152
+
+### Patch Changes
+
+- @ctx-core/dev-tools: 8.1.107 -> 8.1.108
+- @ctx-core/build: 1.0.295 -> 1.0.296
+- @ctx-core/git-tools: ^7.0.57 -> ^7.0.58
+- @ctx-core/ctx-core-package-tools: ^8.0.187 -> ^8.0.188
+- @ctx-core/monorepo: ^20.2.1 -> ^20.2.2
+- @ctx-core/function: ^21.17.12 -> ^21.17.13
+- @ctx-core/queue: ^7.5.13 -> ^7.5.15
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/graphql@9.0.153
+  - @ctx-core/iex@8.1.46
+
 ## 9.1.151
 
 ### Patch Changes
