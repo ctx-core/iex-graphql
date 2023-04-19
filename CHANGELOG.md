@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.1.157
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/graphql@9.0.158
+  - @ctx-core/iex@8.1.51
+
 ## 9.1.156
 
 ### Patch Changes
