@@ -1,5 +1,24 @@
 # @ctx-core/iex-graphql
 
+## 9.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/graphql@9.1.0
+  - @ctx-core/iex@8.2.0
+
 ## 9.1.324
 
 ### Patch Changes

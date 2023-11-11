@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "9.1.324",
+	"version": "9.2.0",
 	"description": "@ctx-core/iex-graphql",
 	"keywords": [
 		"ctx-core",
@@ -19,10 +19,14 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./Quote_gql",
+		"./RefDataSymbol_gql"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -35,8 +39,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "^9.0.188",
-		"@ctx-core/iex": "^8.1.212",
+		"@ctx-core/graphql": "^9.1.0",
+		"@ctx-core/iex": "^8.2.0",
 		"graphql": "^16.8.1",
 		"graphql-tag": "^2.12.6"
 	},
