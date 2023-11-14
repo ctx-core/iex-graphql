@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "9.2.1",
+	"version": "9.2.2",
 	"description": "@ctx-core/iex-graphql",
 	"keywords": [
 		"ctx-core",
@@ -21,6 +21,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./Quote_gql",
 		"./RefDataSymbol_gql"
 	],
@@ -39,8 +40,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "^9.1.1",
-		"@ctx-core/iex": "^8.2.1",
+		"@ctx-core/graphql": "^9.1.2",
+		"@ctx-core/iex": "^8.2.2",
 		"graphql": "^16.8.1",
 		"graphql-tag": "^2.12.6"
 	},
