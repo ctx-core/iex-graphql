@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/graphql@9.1.3
+  - @ctx-core/iex@8.2.3
+
 ## 9.2.2
 
 ### Patch Changes
