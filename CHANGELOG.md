@@ -1,5 +1,16 @@
 # @ctx-core/iex-graphql
 
+## 9.2.108
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+- @ctx-core/graphql: ^9.1.55 -> ^9.1.56
+- @ctx-core/iex: ^8.2.108 -> ^8.2.109
+- Updated dependencies
+  - @ctx-core/graphql@9.1.57
+  - @ctx-core/iex@8.2.110
+
 ## 9.2.107
 
 ### Patch Changes
