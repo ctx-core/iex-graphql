@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/iex-graphql",
-	"version": "9.2.125",
+	"version": "9.2.126",
 	"description": "@ctx-core/iex-graphql",
 	"keywords": [
 		"ctx-core",
@@ -42,8 +42,8 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/graphql": "^9.1.72",
-		"@ctx-core/iex": "^8.2.127",
+		"@ctx-core/graphql": "^9.1.74",
+		"@ctx-core/iex": "^8.2.129",
 		"graphql": "^16.8.1",
 		"graphql-tag": "^2.12.6"
 	},
