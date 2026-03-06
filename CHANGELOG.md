@@ -1,5 +1,14 @@
 # @ctx-core/iex-graphql
 
+## 9.2.274
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - @ctx-core/graphql@9.1.209
+  - @ctx-core/iex@8.2.276
+
 ## 9.2.273
 
 ### Patch Changes
